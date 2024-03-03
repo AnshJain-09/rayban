@@ -1,4 +1,4 @@
 # rayban
-front-end, homee page, Ray-Ban.
+front-end, home page, Ray-Ban.
 <br>
 Author- Ansh Jain
